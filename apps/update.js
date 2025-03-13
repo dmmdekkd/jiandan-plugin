@@ -1,7 +1,7 @@
 import { update as Update } from "../../other/update.js";
 import { Plugin_Name } from "../components/index.js";
 
-const RepoUrl = "https://github.com/wuliya336/starlight-qsign";
+const RepoUrl = "https://github.com/dmmdekkd/jiandan-plugin";
 
 export class update extends plugin {
   constructor() {
@@ -11,11 +11,11 @@ export class update extends plugin {
       priority: -20,
       rule: [
         {
-          reg: /(#)?(星点签名|starlight-qsign)(插件)?(强制)?更新$/i,
+          reg: /(#)?(简单|jd)(插件)?(强制)?更新$/i,
           fnc: "update",
         },
         {
-          reg: /^#(星点签名|starlight-qsign)(插件)?更新日志$/i,
+          reg: /^#(简单|jd)(插件)?更新日志$/i,
           fnc: "sendLog",
         },
       ],
@@ -37,7 +37,7 @@ export class update extends plugin {
         if (log && log.data) {
           log.data = log.data.map((node) => ({
             ...node,
-            nickname: "星点签名",
+            nickname: "简单",
             user_id: Bot.uin,
           }));
         }

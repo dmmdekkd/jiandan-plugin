@@ -2,7 +2,7 @@ import fs from "fs";
 import lodash from "lodash";
 import YAML from "yaml";
 
-let app = "starlight-qsign";
+let app = "jiandan-plugin";
 const _path = process.cwd();
 const _cfgPath = `${_path}/plugins/${app}/components/`;
 let cfg = {};

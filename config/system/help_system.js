@@ -1,12 +1,12 @@
 export const helpCfg = {
-  title: "星点签名帮助",
-  subTitle: "Yunzai-Bot & starlight-qsign",
-  columnCount: 3,
+  title: "简单插件帮助",
+  subTitle: "Yunzai-Bot & jiandan-plugin",
+  columnCount: 2,
   colWidth: 265,
   theme: "all",
   themeExclude: ["default"],
   style: {
-    fontColor: "#d3bc8e",
+    fontColor: "#BF41A6",
     descColor: "#eee",
     contBgColor: "rgba(6, 21, 31, .5)",
     contBgBlur: 3,
@@ -18,20 +18,47 @@ export const helpCfg = {
 
 export const helpList = [
   {
-    group: "[]内为必填项,{}内为可选项",
-  },
-  {
-    group: "拓展命令",
+    group: "查询",
     list: [
       {
         icon: 75,
-        title: "#API列表或45",
-        desc: "从云端获取公共签名API列表信息并发送",
+        title: "查询好友",
+        desc: "已加入好友列表",
       },
       {
+        icon: 70,
+        title: "查询群",
+        desc: "已加入QQ群列表",
+      },
+      {
+        icon: 65,
+        title: "查询群号",
+        desc: "查看当前所在群号",
+      },            
+    ],
+  },
+  {
+    group: "消息推送",
+    list: [
+      {
+        icon: 50,
+        title: "推送好友",
+        desc: "示列 推送好友 123456789 文本",
+      },
+      {
+        icon: 45,
+        title: "推送群聊",
+        desc: "示列 推送群聊 123456789 文本",
+      },
+      {
+        icon: 40,
+        title: "转发推送好友",
+        desc: "示列 转发推送好友 123456789 文本",
+      },            
+      {
         icon: 35,
-        title: "#星点签名查询签名地址",
-        desc: "查询当前实例ICQQ的签名地址",
+        title: "转发推送群聊",
+        desc: "示列 转发推送好友 123456789 文本",
       },
     ],
   },
@@ -41,13 +68,28 @@ export const helpList = [
     list: [
       {
         icon: 95,
-        title: "#星点签名(插件)(强制)更新",
-        desc: "更新插件本体",
-      },
+        title: "推送全部好友",
+        desc: "顾名思义",
+      },    
       {
         icon: 85,
-        title: "#星点签名设置",
-        desc: "管理命令",
+        title: "推送全部群聊",
+        desc: "顾名思义",
+      },   
+      {
+        icon: 20,
+        title: "#转发推送全部好友",
+        desc: "顾名思义",
+      },        
+      {
+        icon: 15,
+        title: "#转发推送全部群聊",
+        desc: "顾名思义",
+      },             
+      {
+        icon: 25,
+        title: "#简单(插件)(强制)更新",
+        desc: "更新插件",
       },
     ],
   },

@@ -30,17 +30,19 @@ for (let i in files) {
 const currentTime = new Date().toLocaleString();
 
 // 美化并重新排版 logger.info 部分
-logger.info(chalk.hex("#00FFFF")(`
+logger.info(chalk.blue(`
   ╭───────────────────────────────╮
   │                               │
-  │  ${chalk.hex("#FFD700")("简单插件")} ${chalk.hex("#00FF00")(`v${Version.ver}`)} ${chalk.hex("#FF69B4")("载入成功 ^_^")}  │
+  │  简单插件 v${Version.ver} 载入成功 ^_^  │
   │                               │
-  │  ${chalk.hex("#FFA500")("作者 - 3448585471")}                │
-  │  ${chalk.hex("#1E90FF")("github - github.com/dmmdekkd/jiandan-plugin")}        │
+  │  作者 - 3448585471                │
+  │  github - 
+  │
+  │  https://github.com/dmmdekkd/jiandan-plugin        │
   │                               │
-  │  ${chalk.hex("#FFFF00")("维护中，欢迎反馈问题")}     │
-  │  ${chalk.hex("#ADFF2F")("当前时间：")}${chalk.hex("#7CFC00")(currentTime)}      │
-  │  ${chalk.hex("#FF4500")("版本：")}${chalk.hex("#FF6347")(`v${Version.ver}`)}         │
+  │  ${chalk.yellow("维护中，欢迎反馈问题")}     │
+  │  当前时间：${currentTime}      │
+  │  版本：v${Version.ver}         │
   │                               │
   ╰───────────────────────────────╯
 `));

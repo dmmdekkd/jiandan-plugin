@@ -6,7 +6,7 @@ const getRoot = (root = "") => {
   if (root === "root" || root === "yunzai") {
     root = `${_path}/`;
   } else if (!root) {
-    root = `${_path}/plugins/starlight-qsign/`;
+    root = `${_path}/plugins/jiandan-plugin/`;
   }
   return root;
 };
@@ -106,7 +106,7 @@ let Data = {
     let sysCfg = await Data.importModule(`config/system/${key}_system.js`);
     let diyCfg = await Data.importModule(`config/${key}.js`);
     if (diyCfg.isSys) {
-      console.error(`starlight-qsign: config/${key}.js无效，已忽略`);
+      console.error(`jiandan-plugin: config/${key}.js无效，已忽略`);
       console.error(
         `如需配置请复制config/${key}_default.js为config/${key}.js，请勿复制config/system下的系统文件`,
       );

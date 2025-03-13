@@ -2,21 +2,21 @@ import lodash from "lodash";
 import { Common, Data, Version } from "../components/index.js";
 import Theme from "../config/system/theme_system.js";
 const _path = process.cwd();
-const helpPath = `${_path}/plugins/starlight-qsign/resources/help`;
+const helpPath = `${_path}/plugins/jiandan-plugin/resources/help`;
 
 export class help extends plugin {
   constructor() {
     super({
-      name: "星点签名:帮助",
+      name: "简单:帮助",
       event: "message",
       priority: 100,
       rule: [
         {
-          reg: "^#?(星点签名|starlight-qsign)(命令|帮助|菜单|help|说明|功能|指令|使用说明)$",
+          reg: "^#?(简单|jd)(命令|帮助|菜单|help|说明|功能|指令|使用说明)$",
           fnc: "help",
         },
         {
-          reg: "^#?(星点签名|starlight-qsign)(版本|版本信息|version|versioninfo)$",
+          reg: "^#?(简单|jd)(版本|版本信息|version|versioninfo)$",
           fnc: "versionInfo",
         },
       ],

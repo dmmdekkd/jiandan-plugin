@@ -1,5 +1,2 @@
-# Github仓库定时推送
-GithubPush: true
-
 # 图片渲染精度
 renderScale: 100

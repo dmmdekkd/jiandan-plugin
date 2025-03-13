@@ -4,7 +4,7 @@ import { Data } from "../../components/index.js";
 
 let Theme = {
   async getThemeCfg(theme, exclude) {
-    let dirPath = "./plugins/starlight-qsign/resources/help/theme/";
+    let dirPath = "./plugins/jiandan-plugin/resources/help/theme/";
     let ret = [];
     let names = [];
     let dirs = fs.readdirSync(dirPath);
