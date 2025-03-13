@@ -1,0 +1,20 @@
+{
+  "name": "jiandan-plugin",
+  "version": "1.0.0",
+  "author": "3448585471",
+  "type": "module",
+  "dependencies": {
+    "axios": "*"
+  },
+  "devDependencies": {
+    "husky": "^9.1.6",
+    "lint-staged": "^15.2.10",
+    "prettier": "3.3.3"
+  },
+  "scripts": {
+    "pre": "pnpm exec prettier . --write"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  }
+}
