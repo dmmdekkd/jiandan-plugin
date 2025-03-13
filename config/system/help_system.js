@@ -18,6 +18,21 @@ export const helpCfg = {
 
 export const helpList = [
   {
+    group: "今日系列",
+    list: [
+      {
+        icon: 47,
+        title: "今日运势",
+        desc: "查询今日运势",
+      },
+      {
+        icon: 32,
+        title: "今日CP",
+        desc: "今日cp老婆",
+      },            
+    ],
+  },
+  {
     group: "查询",
     list: [
       {
@@ -34,7 +49,12 @@ export const helpList = [
         icon: 65,
         title: "查询群号",
         desc: "查看当前所在群号",
-      },            
+      },   
+      {
+        icon: 78,
+        title: "联系主人",
+        desc: "给设置好的QQ号带话",
+      },                           
     ],
   },
   {

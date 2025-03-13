@@ -6,7 +6,7 @@ const RepoUrl = "https://github.com/dmmdekkd/jiandan-plugin";
 export class update extends plugin {
   constructor() {
     super({
-      name: "星点签名:更新",
+      name: "简单:更新",
       event: "message",
       priority: -20,
       rule: [
@@ -51,7 +51,7 @@ export class update extends plugin {
 
   async update(e = this.e) {
     if (!this.e.isMaster) return false;
-    e.msg = `#${e.msg.includes("强制") ? "强制" : ""}更新starlight-qsign`;
+    e.msg = `#${e.msg.includes("强制") ? "强制" : ""}更新简单插件`;
 
     const up = await this.initUpdate(e, Plugin_Name, RepoUrl);
     up.e = e;
