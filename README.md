@@ -6,13 +6,6 @@
 </h1>
 <p align="center">✨ 一款简单易用的 Yunzai-Bot 功能插件</p>
 
-<div align="center">
-
-# [NenNen_CN](https://gitee.com/nennen-cn)
-
-<img decoding="async" align=right src="https://th.bing.com/th/id/R.653eb3d2506882514af81e33d9946655?rik=wyNDzjL%2f2Nkg9w&riu=http%3a%2f%2fimg.soogif.com%2fLfSPsJIbjgPL18Y58BV7RKexTv9OSNJG.gif&ehk=tmEpfh1haaSiRq40z09hWZ41gs7ZyFAZPTUU7a9DJnc%3d&risl=&pid=ImgRaw&r=0&PC=EMMX01" width="35%">
-</div>
-
 ---
 
 ## 🚀 功能特性
@@ -22,7 +15,9 @@
 - 🎯 帮助指令 `简单帮助` - 获取完整功能说明
 ```
 
-
+<div align="center">
+<img decoding="async" align=right src="https://th.bing.com/th/id/R.653eb3d2506882514af81e33d9946655?rik=wyNDzjL%2f2Nkg9w&riu=http%3a%2f%2fimg.soogif.com%2fLfSPsJIbjgPL18Y58BV7RKexTv9OSNJG.gif&ehk=tmEpfh1haaSiRq40z09hWZ41gs7ZyFAZPTUU7a9DJnc%3d&risl=&pid=ImgRaw&r=0&PC=EMMX01" width="35%">
+</div>
 ## 功能
 
 ---
