@@ -1,11 +1,7 @@
-# <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="your-left-image-url.jpg" alt="Left Image" style="width: auto; height: 20px;">
-  <div>
-    <div align="center">jiandan-plugin</div>
-    <p align="center">简单插件</p>
-  </div>
-  <img src="your-right-image-url.jpg" alt="Right Image" style="width: auto; height: 20px;">
-</div>>
+# <div align="center">jiandan-plugin</div>
+<p align="center">简单插件</p>
+
+
 
 
 ## 功能
