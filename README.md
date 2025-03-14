@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://th.bing.com/th/id/R.653eb3d2506882514af81e33d9946655?rik=wyNDzjL%2f2Nkg9w&riu=http%3a%2f%2fimg.soogif.com%2fLfSPsJIbjgPL18Y58BV7RKexTv9OSNJG.gif&ehk=tmEpfh1haaSiRq40z09hWZ41gs7ZyFAZPTUU7a9DJnc%3d&risl=&pid=ImgRaw&r=0&PC=EMMX01" width="30"/>
   jiandan-plugin 
-  <img src="https://th.bing.com/th/id/R.653eb3d2506882514af81e33d9946655?rik=wyNDzjL%2f2Nkg9w&riu=http%3a%2f%2fimg.soogif.com%2fLfSPsJIbjgPL18Y58BV7RKexTv9OSNJG.gif&ehk=tmEpfh1haaSiRq40z09hWZ41gs7ZyFAZPTUU7a9DJnc%3d&risl=&pid=ImgRaw&r=0&PC=EMMX01" width="30"/>
+  <img src="https://th.bing.com/th/id/R.a6bb2530881987d6249f5e8eef27c886?rik=EwsfdCNij7sBjA&riu=http%3a%2f%2fc-ssl.duitang.com%2fuploads%2fitem%2f202004%2f02%2f20200402193058_buhwg.gif&ehk=lOiGruxVIbi0g7uDiEFqvs%2fNIiTWW1HiDy7cfsUpAxg%3d&risl=&pid=ImgRaw&r=0&PC=EMMX01" width="30"/>
 </h1>
 <p align="center">✨ 一款简单易用的 Yunzai-Bot 功能插件</p>
 
