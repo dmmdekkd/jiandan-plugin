@@ -1,5 +1,5 @@
 # <div align="center">jiandan-plugin</div>
-<p align="center">简单插件</p>
+> <p align="center">简单插件</p>
 
 
 
