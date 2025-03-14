@@ -62,7 +62,7 @@
 
 <h1 align="center">
 
-### `Yunzai-Bot`
+`Yunzai-Bot`
 
 </h1>
 
