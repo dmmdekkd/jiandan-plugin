@@ -10,7 +10,7 @@
 
 # [NenNen_CN](https://gitee.com/nennen-cn)
 
-<img decoding="async" align=right src="resources/imgs/face.gif" width="35%">
+<img decoding="async" align=right src="https://th.bing.com/th/id/R.653eb3d2506882514af81e33d9946655?rik=wyNDzjL%2f2Nkg9w&riu=http%3a%2f%2fimg.soogif.com%2fLfSPsJIbjgPL18Y58BV7RKexTv9OSNJG.gif&ehk=tmEpfh1haaSiRq40z09hWZ41gs7ZyFAZPTUU7a9DJnc%3d&risl=&pid=ImgRaw&r=0&PC=EMMX01" width="35%">
 </div>
 
 ---
