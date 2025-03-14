@@ -2,17 +2,21 @@
 # <div align="center">jiandan-plugin</div>
 ## <p align="center">简单插件</p>
 
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/rocket.gif?1613285697" width="30"/>
+  jiandan-plugin 
+  <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/rocket.gif?1613285697" width="30"/>
+</h1>
+<p align="center">✨ 一款简单易用的 Yunzai-Bot 功能插件</p>
 
-<div style="font-family: Arial, sans-serif; background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <div align="center">
-        <h1 style="font-size: 2.5rem; color: #ff6f61; margin-bottom: 10px;">jiandan-plugin</h1>
-        <h2 style="font-size: 1.8rem; color: #555; margin-top: 0;">简单插件</h2>
-    </div>
-    <div style="display: flex; align-items: center; margin-top: 20px;">
-        <img src="https://via.placeholder.com/150" alt="示例图片" style="width: 150px; height: 150px; border-radius: 10px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <p style="font-size: 1.2rem; color: #333; margin: 0;">这里是文本内容，图片靠左对齐。</p>
-    </div>
-</div>
+---
+
+## 🚀 功能特性
+
+### 📜 帮助系统
+```markdown
+- 🎯 核心指令 `简单帮助` - 获取完整功能说明
+
 
 
 ## 功能
