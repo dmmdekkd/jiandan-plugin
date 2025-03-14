@@ -3,7 +3,9 @@
 ## <p align="center">简单插件</p>
 
 
-![Alt Text](https://media.giphy.com/media/555q4ngZRoxHCtGSrT/giphy.gif) 
+<!-- 引入高亮.js库的深色主题样式表 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/atom-one-dark.min.css">
+ 
 
 ## 功能
 
