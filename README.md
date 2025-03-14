@@ -23,9 +23,9 @@
 
 ---
 
-- 查询
+> - 查询
 
- <img src="https://th.bing.com/th/id/R.653eb3d2506882514af81e33d9946655?rik=wyNDzjL%2f2Nkg9w&riu=http%3a%2f%2fimg.soogif.com%2fLfSPsJIbjgPL18Y58BV7RKexTv9OSNJG.gif&ehk=tmEpfh1haaSiRq40z09hWZ41gs7ZyFAZPTUU7a9DJnc%3d&risl=&pid=ImgRaw&r=0&PC=EMMX01" width="20"/>今日运势
+- [x] 今日运势
 - [x] 今日CP
 
 ---
@@ -66,9 +66,10 @@
 git clone --depth=1 https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jiandan-plugin
 ```
 
-#### 使用`Github`镜像
-
-```bash
+> [!tip]
+> 如果您的网络环境较差，建议使用代理加速
+> ```
+> ```bash
 git clone --depth=1 https://ghfast.top/https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jiandan-plugin
 ```
 #### 使用`gitee`镜像
