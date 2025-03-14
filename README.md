@@ -12,12 +12,9 @@
 
 ### 📜 帮助
 ```markdown
-- 🎯 帮助指令 `简单帮助` - 获取完整功能说明
+- 发送`简单帮助`查看帮助菜单
 ```
 
-<div align="center">
-<img decoding="async" align=right src="./resources/help/help.jpg" width="70%">
-</div>
 
 ## 功能
 
