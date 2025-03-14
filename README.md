@@ -16,7 +16,7 @@
 ```
 
 <div align="center">
-<img decoding="async" align=right src="./resources/help/help.jpg" width="35%">
+<img decoding="async" align=right src="./resources/help/help.jpg" width="70%">
 </div>
 
 ## 功能
