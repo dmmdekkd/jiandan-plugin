@@ -72,6 +72,7 @@ git clone --depth=1 https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jia
 > ```bash
 git clone --depth=1 https://ghfast.top/https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jiandan-plugin
 ```
+
 #### 使用`gitee`镜像
 
 ```bash
