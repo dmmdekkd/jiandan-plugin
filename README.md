@@ -1,11 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="your-left-image-url.jpg" alt="Left Image" style="width: auto; height: 20px; margin-right: 10px;">
-  <div>
-    <div align="center">jiandan-plugin</div>
-    <p align="center">简单插件</p>
-  </div>
-  <img src="https://th.bing.com/th/id/R.c63822bda5991c9df95b3479646df529?rik=DD0uBxXz%2bfnRYg&riu=http%3a%2f%2fimg.soogif.com%2fDdSE1V5IecdHi9JgewTTukNX9gZZq6XH.gif&ehk=If2pzxo1qBVq2gP285DoKZ9TuBOa%2fWtSnHA4fdG1BZI%3d&risl=&pid=ImgRaw&r=0&PC=EMMX01" alt="Right Image" style="width: auto; height: 20px; margin-left: 10px;">
-</div>
+# <div align="center">jiandan-plugin</div>
+<p align="center">简单插件</p>
 
 
 ## 功能
