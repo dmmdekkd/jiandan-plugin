@@ -6,6 +6,13 @@
 </h1>
 <p align="center">✨ 一款简单易用的 Yunzai-Bot 功能插件</p>
 
+<div align="center">
+
+# [NenNen_CN](https://gitee.com/nennen-cn)
+
+<img decoding="async" align=right src="resources/imgs/face.gif" width="35%">
+</div>
+
 ---
 
 ## 🚀 功能特性
