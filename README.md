@@ -59,11 +59,12 @@
 
 ## 安装与更新
 
-<h1 align="center">
 
-  jiandan-plugin 
+<p align="center">
 
-</h1>
+`Yunzai-Bot`
+
+</p
 
 ### `Yunzai-Bot`
 
