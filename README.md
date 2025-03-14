@@ -22,9 +22,14 @@
 
 > - 查询
 
+</details>
+
 <div align="center">
 <img decoding="async" align=right src="./resources/help/help.jpg" width="50%">
 </div>
+
+<details><summary>点击展开</summary>
+<br>
 
 - [x] 今日运势
 - [x] 今日CP
