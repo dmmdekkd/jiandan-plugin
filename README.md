@@ -60,11 +60,11 @@
 ## 安装与更新
 
 
-<p align="center">
+<h1 align="center">
 
-`Yunzai-Bot`
+### `Yunzai-Bot`
 
-</p
+</h1>
 
 ### `Yunzai-Bot`
 
