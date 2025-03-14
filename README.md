@@ -59,14 +59,11 @@
 
 ## 安装与更新
 
-
-<h4 align="center">
+<h2 align="center">
 
 `Yunzai-Bot`
 
-</h4>
-
-### `Yunzai-Bot`
+</h2>
 
 #### 使用`Github`
 
