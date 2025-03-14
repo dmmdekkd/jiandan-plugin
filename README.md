@@ -16,7 +16,7 @@
 ```
 
 
-## 功能
+## 🌉 功能
 
 ---
 
@@ -34,12 +34,12 @@
 
 ---
 
-- 联系
+> - 联系
 
 - [x] 联系主人
 ---
 
-- 查询
+> - 查询
 
 - [x] 查询好友
 - [x] 查询群
@@ -47,7 +47,7 @@
 
 ---
 
-- 消息推送
+> - 消息推送
 
 - [x] 推送好友
 - [x] 推送群聊
@@ -60,7 +60,7 @@
 
 ---
 
-## 安装与更新
+## 🌉 安装与更新
 
 <h2 align="center">
 
@@ -68,7 +68,7 @@
 
 </h2>
 
-#### 使用`Github`
+#### 🌇 使用`Github`
 
 ```bash
 git clone --depth=1 https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jiandan-plugin
@@ -80,23 +80,24 @@ git clone --depth=1 https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jia
 > git clone --depth=1 https://ghfast.top/https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jiandan-plugin
 > ```
 
-#### 使用`gitee`镜像
+#### 🎢 使用`gitee`镜像
 
 ```bash
 git clone --depth=1 https://gitee.com/qianzhi11_admin/jiandan-plugin.git ./plugins/jiandan-plugin
 ```
 
-## 帮助图
+## 🌃 帮助图
 
 ![帮助图](./resources/help/help.jpg)
 
 
 
-## <img src="./resources/咖波/咖波表情包p1.gif" width="20"/>联系
+## 🌁 联系
 
 - QQ群  [317849294](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fhfLfMY0RjF8DyYJdVcHHtvxkzOODTM4&authKey=cFK9hixEIU57AacxLhwnU9%2F6%2Fr26dumlxVO4%2FjHEGRjWWRV6s%2FSwulVtuDkEGHzI&noverify=0&group_code=317849294)
 
-### <img src="./resources/咖波/咖波表情包p1.gif" width="20"/> QQ机器人友链
+### 🎡 QQ机器人友链
+
 >  欢迎广大开发者交换友链  
 
 | Robot | 创建人 | 功能&介绍 |
