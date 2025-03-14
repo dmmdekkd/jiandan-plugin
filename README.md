@@ -1,8 +1,5 @@
 
-# <div align="center">jiandan-plugin</div>
-## <p align="center">简单插件</p>
-
-<h1 align="center">
+# <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/rocket.gif?1613285697" width="30"/>
   jiandan-plugin 
   <img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/rocket.gif?1613285697" width="30"/>
@@ -13,10 +10,10 @@
 
 ## 🚀 功能特性
 
-### 📜 帮助系统
+### 📜 帮助
 ```markdown
-- 🎯 核心指令 `简单帮助` - 获取完整功能说明
-
+- 🎯 帮助指令 `简单帮助` - 获取完整功能说明
+```
 
 
 ## 功能
