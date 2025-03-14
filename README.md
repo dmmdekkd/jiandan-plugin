@@ -68,12 +68,10 @@ git clone --depth=1 https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jia
 
 > [!tip]
 > 如果您的网络环境较差，建议使用代理加速
-git clone --depth=1
-https://ghfast.top/https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jiandan-plugin
 > ```bash
-git clone --depth=1
+>git clone --depth=1
 https://ghfast.top/https://github.com/dmmdekkd/jiandan-plugin.git ./plugins/jiandan-plugin
-> ```1
+> ```
 
 #### 使用`gitee`镜像
 
