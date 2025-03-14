@@ -90,6 +90,15 @@ git clone --depth=1 https://gitee.com/qianzhi11_admin/jiandan-plugin.git ./plugi
 
 ![帮助图](./resources/help/help.jpg)
 
+
+
 ## 联系
 
 - QQ群  [317849294](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fhfLfMY0RjF8DyYJdVcHHtvxkzOODTM4&authKey=cFK9hixEIU57AacxLhwnU9%2F6%2Fr26dumlxVO4%2FjHEGRjWWRV6s%2FSwulVtuDkEGHzI&noverify=0&group_code=317849294)
+
+### QQ机器人友链
+>  欢迎广大开发者交换友链  
+
+| Robot | 创建人 | 功能&介绍 |
+| - | - | - |
+| [伊蕾娜](https://qun.qq.com/qunpro/robot/qunshare?biz_type=1&robot_uin=3889046368) | [F246](https://qm.qq.com/q/XpcVb7vFu2) | 定位：服务于社群生态，提供小游戏娱乐功能 |
