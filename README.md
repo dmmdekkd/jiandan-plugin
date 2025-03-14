@@ -22,14 +22,13 @@
 
 > - 查询
 
-</details><summary>点击展开</summary>
+<details><summary>点击展开</summary>
 
 <div align="center">
 <img decoding="async" align=right src="./resources/help/help.jpg" width="50%">
 </div>
 
-<details>
-<br>
+</details>
 
 
 - [x] 今日运势
